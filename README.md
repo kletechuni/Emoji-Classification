@@ -4,3 +4,4 @@
 2. Working on data cleaning and text preprocessing
 3. Survey on RNN for emoji classification
 4. Building tokenizer to feed text to RNN
+5. Solving errors in building tokenizer
